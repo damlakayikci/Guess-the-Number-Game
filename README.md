@@ -6,9 +6,11 @@
 
 🎮 The game also keeps the record of user's score and saves the highest score. 
 
+Here is a photo from the game:
 
 ![](pics/game.png)
 
 
+Here is how it looks when you guess the number:
 
 ![](pics/game-win.png)
