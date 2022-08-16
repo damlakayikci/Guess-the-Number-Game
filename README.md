@@ -11,6 +11,6 @@ Here is a photo from the game:
 ![](pics/game.png)
 
 
-Here is how it looks when you guess the number:
+Here is how it looks when you successfully guess the number:
 
 ![](pics/game-win.png)
